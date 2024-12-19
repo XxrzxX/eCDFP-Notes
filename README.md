@@ -9,10 +9,10 @@
 
 ## Course Information ⏳📚 <a href="#Course-info" id="Course-info"></a>
 
-#### DURATION: **23h 52m** \
-#### COURSES: **4**  \
-#### VIDEOS: **28** \
-#### QUIZZES: **20** \
+#### DURATION: **23h 52m** 
+#### COURSES: **4**  
+#### VIDEOS: **28** 
+#### QUIZZES: **20** 
 #### LABS: **24** 
 
 * **​**[**Digital Forensics: Introduction & Acquisition**](https://github.com/XxrzxX/eCDFP-Notes/tree/main/Note/Data-Acquisition)  3h 43m
