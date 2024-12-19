@@ -33,7 +33,7 @@ The SAM file securely stores user account data and is a root key of the `HKEY_LO
 
 ### SID
 
- ![image]()
+ ![image](https://github.com/XxrzxX/eCDFP-Notes/blob/main/Note/Assest/SID.jpg)
  
 - **S** = Security Identifier
 - **1** = Version number
