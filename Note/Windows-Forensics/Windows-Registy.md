@@ -52,7 +52,7 @@ To determine the password policy in the SAM, check the right nibble of hex offse
 - `1`: Account inactive.
 - `4`: Password present, but exempt from password policies.
   
-  ![image]()
+  ![image](https://github.com/XxrzxX/eCDFP-Notes/blob/main/Note/Assest/policy.png)
 
 
 
