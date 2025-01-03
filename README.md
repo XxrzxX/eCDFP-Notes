@@ -7,7 +7,7 @@
 
 </div>
 
-## My own notes. ⏳📚 <a href="#Course-info" id="Course-info"></a>
+## My own notes.📝📚 <a href="#Course-info" id="Course-info"></a>
 
 This note is from a freely available sources.
 
