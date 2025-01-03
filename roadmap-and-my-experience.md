@@ -4,13 +4,6 @@
 
 I'm writing this review to share some essential resources, insights, and tools you'll need for preparation. Plus, I'll include some study notes and free resources for those who can't afford subscription fees. I strongly recommend setting up a home lab to practice Windows forensics and disk forensics.
 
-For the exam, you get two attempts, each lasting 24 hours for 30 questions. Keep in mind that the second attempt has a two-week time limit, so don't miss it! You'll receive your results immediately after submitting. The exam mainly focuses on Windows forensics, so it's crucial to have a solid understanding and practical experience in this area. Here are some tips to help you:
-
-- **Master Registry Forensics**: The exam focuses on collecting artifacts from the registry.
-- **Disk Analysis**: Proficiency in using WinHex is essential, as a significant portion of the exam requires its usage in disk analysis.
-- **Network Analysis**: Proficiency in using Wireshark is crucial, as a substantial part of the exam involves network analysis.
-- **Take Your Time to Find the Right Answer**: Carefully analyze each question and ensure you understand the requirements before proceeding.
-
 I recommend using [Blue Cape Security's Practical Windows Forensics Lab](https://github.com/bluecapesecurity/PWF) as it provides a comprehensive guide that will help you build your lab easily, offering step-by-step instructions and practical insights to enhance your understanding of digital forensics. Setting up a well-equipped lab will greatly assist in mastering the process of collecting and analyzing evidence.
 
 Personally, I didn’t follow the INE course due to the lack of a subscription. Instead, I relied on resources available online, which I have compiled on my GitHub.
