@@ -29,7 +29,7 @@ Here's the path I followed and would suggest to achieve the level required to pa
 ## Tools
 
 * Autopsy: The Basics [THM Room](https://tryhackme.com/r/room/autopsy2ze0)
-* WinHex: Repeater [WinHex](https://x-ways.net/winhex/)
+* WinHex: [WinHex](https://x-ways.net/winhex/)
 * FTKImager [THM Room](https://tryhackme.com/r/room/caseb4dm755)
 * WireShark [THM Room](https://tryhackme.com/r/room/trafficanalysisessentials)
 * RegRipper [THM Room](https://tryhackme.com/r/room/expregistryforensics)
