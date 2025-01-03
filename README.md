@@ -9,7 +9,7 @@
 
 ## Notes.📝📚 <a href="#Course-info" id="Course-info"></a>
 
-This note is from a freely available sources.
+This notes is from a freely available sources.
 
 * [**Digital Forensics: Overview and Collection of Evidence**](https://github.com/XxrzxX/eCDFP-Notes/tree/main/Note/Data-Acquisition)  
 * [**Files & Examination of the Disk**](https://github.com/XxrzxX/eCDFP-Notes/tree/main/Note/Disk)  
