@@ -15,11 +15,6 @@
 * [**System & Network Forensics**](https://github.com/XxrzxX/eCDFP-Notes/tree/main/Note/Windows-Forensics)  
 * **​Logs, Timelines & Reporting** 
 
-## ​[eCDFP](https://my.ine.com/CyberSecurity/learning-paths/54d03ae9-f161-4c34-85d1-ed4007d83f11/digital-forensics-professional?_gl=1%2a1hwsc79%2a_gcl_au%2aMzI5ODkyMzcuMTczNDU2MTYyNQ..%2a_ga%2aMzkzNDIwMjAzLjE3MzQ1NjE2MjU.%2a_ga_EQZTB17YGQ%2aMTczNDU2MTYyNC4xLjAuMTczNDU2MTYzMS41My4wLjEzOTMzMTAwMDQ.) Exam 📄🖊️ 
-
-* **Time limit**: 24h 
-* **Price**: $399 
-* **Questions**: 30
 
 ## Resources 📑📘
 
