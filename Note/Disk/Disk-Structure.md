@@ -107,9 +107,8 @@ Invisible to the OS, cannot be erased with basic formatting. Useful for boot, di
 
 - hdparm
 - Sleuth Kit
-- Encase
-- FTK (Forensic Toolkit)
-- OSForensics
+- FTK 
+
 
 ---
 
