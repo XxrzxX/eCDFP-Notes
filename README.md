@@ -17,6 +17,6 @@ This notes is from a freely available sources.
 * **​Log Files Timelines Analysis**
 * **​Report Writing** 
 
-### ➡ [Exam Experience and RoadMap to pass eCDFP exam ](roadmap-and-my-experience.md) 
+### ➡ [RoadMap to pass eCDFP exam ](roadmap-and-my-experience.md) 
 
 
