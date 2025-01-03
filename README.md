@@ -14,7 +14,7 @@ This note is from a freely available sources.
 * **​**[**Digital Forensics: Overview and Collection of Evidence **](https://github.com/XxrzxX/eCDFP-Notes/tree/main/Note/Data-Acquisition)  
 * [**File & Examination of the Disk**](https://github.com/XxrzxX/eCDFP-Notes/tree/main/Note/Disk)  
 * [**Operating System and Network Investigations**](https://github.com/XxrzxX/eCDFP-Notes/tree/main/Note/Windows-Forensics)  
-* **​Log Files Timelines AnalysisTimelines**
+* **​Log Files Timelines Analysis**
 * **​Report Writing** 
 
 ### ➡ [Exam Experience and RoadMap to pass eCDFP exam ](roadmap-and-my-experience.md) 
