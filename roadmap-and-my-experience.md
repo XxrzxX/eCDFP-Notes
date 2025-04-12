@@ -49,6 +49,7 @@ Here's the path I followed and would suggest to achieve the level required to pa
 * GPT Disk Structure [Article](http://www.invoke-ir.com/2015/06/ontheforensictrail-part3.html)
 * MBR [Article](https://www.youtube.com/watch?v=sUZCJ0Y7UnY) (Arabic)
 * Disk Cases [Based on Videos By Ali Hadi](https://github.com/cout-hello/eCDFP/tree/main/disk-destruction-and-repair)
+* MBR GPT Disk analysis [THM Room](https://tryhackme.com/room/mbrandgptanalysis)
 
 ## File System Analysis
 
