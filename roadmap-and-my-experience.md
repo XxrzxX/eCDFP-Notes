@@ -6,7 +6,7 @@ I'm writing this review to share some essential resources, insights, and tools y
 
 I recommend using [Blue Cape Security's Practical Windows Forensics Lab](https://github.com/bluecapesecurity/PWF) as it provides a comprehensive guide that will help you build your lab easily, offering step-by-step instructions and practical insights to enhance your understanding of digital forensics. Setting up a well-equipped lab will greatly assist in mastering the process of collecting and analyzing evidence.
 
-Personally, I didn’t follow the INE course due to the lack of a subscription. Instead, I relied on resources available online, which I have compiled on my GitHub.
+Personally, I didn’t follow the INE course. Instead, I relied on resources available online, which I have compiled on my GitHub.
 
 ## RoadMap 🛣
 
